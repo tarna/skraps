@@ -1,0 +1,10 @@
+name: Skraps
+version: 1.0.0
+main: dev.tarna.skraps.Skraps
+description: Skript addon that adds a bunch of new features to Skript
+author: Tarna
+website: https://tarna.dev
+api-version: '1.20'
+
+depend:
+  - Skript

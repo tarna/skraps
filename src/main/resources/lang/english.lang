@@ -1,0 +1,15 @@
+types:
+    dragonphase: dragonphase¦s @a
+
+dragonphase:
+    breath_attack: breath attack
+    charge_player: charge player
+    circling: circling
+    dying: dying
+    fly_to_portal: fly to portal
+    hover: hover
+    land_on_portal: land on portal
+    leave_portal: leave portal
+    roar_before_attack: roar before attack
+    search_for_breath_attack_target: search for breath attack target
+    strafing: strafing

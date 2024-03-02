@@ -1,0 +1,27 @@
+debug: false
+update-checker: true
+
+elements:
+  datapack: true
+  entity:
+    bat: true
+    bee: true
+    camel: true
+    chicken: true
+    dolphin: true
+    dragon: true
+    endermite: true
+    ghast: true
+    goat: true
+    sheep: true
+    slime: true
+  experimental: true
+  other: true
+  plugins: true
+
+settings:
+  owners:
+    - "YourUUIDHere"
+
+# DO NOT MODIFY BELOW THIS LINE
+config-version: 1
